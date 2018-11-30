@@ -1,0 +1,14 @@
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Api.deps.json
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Api.runtimeconfig.json
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Api.runtimeconfig.dev.json
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Api.dll
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Api.pdb
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Common.dll
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Common.pdb
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.csprojAssemblyReference.cache
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.csproj.CoreCompileInputs.cache
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.AssemblyInfoInputs.cache
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.AssemblyInfo.cs
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.csproj.CopyComplete
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.dll
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.pdb

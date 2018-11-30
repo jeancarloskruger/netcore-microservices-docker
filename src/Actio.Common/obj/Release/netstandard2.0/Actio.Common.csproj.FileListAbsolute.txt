@@ -1,0 +1,9 @@
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Common\bin\Release\netstandard2.0\Actio.Common.deps.json
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Common\bin\Release\netstandard2.0\Actio.Common.dll
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Common\bin\Release\netstandard2.0\Actio.Common.pdb
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Common\obj\Release\netstandard2.0\Actio.Common.csprojAssemblyReference.cache
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Common\obj\Release\netstandard2.0\Actio.Common.csproj.CoreCompileInputs.cache
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Common\obj\Release\netstandard2.0\Actio.Common.AssemblyInfoInputs.cache
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Common\obj\Release\netstandard2.0\Actio.Common.AssemblyInfo.cs
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Common\obj\Release\netstandard2.0\Actio.Common.dll
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Common\obj\Release\netstandard2.0\Actio.Common.pdb

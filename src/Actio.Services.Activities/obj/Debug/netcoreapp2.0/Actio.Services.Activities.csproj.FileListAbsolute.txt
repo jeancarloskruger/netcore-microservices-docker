@@ -1,0 +1,14 @@
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Activities\bin\Debug\netcoreapp2.0\Actio.Services.Activities.deps.json
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Activities\bin\Debug\netcoreapp2.0\Actio.Services.Activities.runtimeconfig.json
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Activities\bin\Debug\netcoreapp2.0\Actio.Services.Activities.runtimeconfig.dev.json
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Activities\bin\Debug\netcoreapp2.0\Actio.Services.Activities.dll
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Activities\bin\Debug\netcoreapp2.0\Actio.Services.Activities.pdb
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Activities\bin\Debug\netcoreapp2.0\Actio.Common.dll
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Activities\bin\Debug\netcoreapp2.0\Actio.Common.pdb
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Activities\obj\Debug\netcoreapp2.0\Actio.Services.Activities.csprojAssemblyReference.cache
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Activities\obj\Debug\netcoreapp2.0\Actio.Services.Activities.csproj.CoreCompileInputs.cache
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Activities\obj\Debug\netcoreapp2.0\Actio.Services.Activities.AssemblyInfoInputs.cache
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Activities\obj\Debug\netcoreapp2.0\Actio.Services.Activities.AssemblyInfo.cs
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Activities\obj\Debug\netcoreapp2.0\Actio.Services.Activities.csproj.CopyComplete
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Activities\obj\Debug\netcoreapp2.0\Actio.Services.Activities.dll
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Activities\obj\Debug\netcoreapp2.0\Actio.Services.Activities.pdb

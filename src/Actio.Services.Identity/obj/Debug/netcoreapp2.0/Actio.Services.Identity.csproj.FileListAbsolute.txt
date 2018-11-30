@@ -1,0 +1,14 @@
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Services.Identity.deps.json
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Services.Identity.runtimeconfig.json
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Services.Identity.runtimeconfig.dev.json
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Services.Identity.dll
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Services.Identity.pdb
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Common.dll
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Common.pdb
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.csprojAssemblyReference.cache
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.csproj.CoreCompileInputs.cache
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.AssemblyInfoInputs.cache
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.AssemblyInfo.cs
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.csproj.CopyComplete
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.dll
+C:\Projetos\Jean\estudo-microservices\Code.NET-Core-Microservices\Code\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.pdb
